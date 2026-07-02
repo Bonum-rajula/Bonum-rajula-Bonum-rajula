@@ -2,11 +2,12 @@
 
 ### Software Engineer • AI Systems Architect • Building software that works where it matters.
 
-I'm a Software Engineer based in Nairobi, Kenya, passionate about building intelligent systems that solve real-world problems. I enjoy turning complex ideas into reliable, production-ready products—from AI-powered applications and offline-first mobile experiences to scalable backend platforms and modern web applications.
+I'm a Software Engineer based in Nairobi, Kenya, passionate about building intelligent systems that solve real-world problems. I enjoy turning complex ideas into reliable, production-ready products, from AI-powered applications and offline-first mobile experiences to scalable backend platforms and modern web applications.
 
-I believe great software isn't just about writing code—it's about designing systems that are fast, maintainable, resilient, and enjoyable to use.
+I believe great software isn't just about writing code, it's about designing systems that are fast, maintainable, resilient, and enjoyable to use.
 
 ---
+
 
 ## 🚀 What I'm Currently Building
 
@@ -18,6 +19,7 @@ I believe great software isn't just about writing code—it's about designing sy
 - 🎨 Beautiful user experiences backed by solid engineering
 
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -39,6 +41,7 @@ LangChain • LangGraph • PyTorch • scikit-learn • ChromaDB • pgvector �
 
 ---
 
+
 ## 💡 Engineering Philosophy
 
 I enjoy solving challenging engineering problems by combining thoughtful system design with clean, maintainable code.
@@ -51,6 +54,7 @@ Whether I'm building AI systems, designing backend architectures, or developing 
 - Keep the user at the center.
 
 ---
+
 
 ## 🌟 Featured Projects
 
@@ -68,6 +72,7 @@ Each repository reflects how I approach architecture, documentation, and product
 
 ---
 
+
 ## 📈 Currently Exploring
 
 - Multi-Agent AI Systems
@@ -78,6 +83,7 @@ Each repository reflects how I approach architecture, documentation, and product
 
 ---
 
+
 ## 🤝 Let's Connect
 
 📧 **Email:** rajulabonum@gmail.com
@@ -85,5 +91,6 @@ Each repository reflects how I approach architecture, documentation, and product
 💼 **LinkedIn:** *https://www.linkedin.com/in/bonum-rajula-3282a8417/*
 
 ---
+
 
 > *"Great software isn't measured by how much code it contains, but by the problems it quietly solves."*
