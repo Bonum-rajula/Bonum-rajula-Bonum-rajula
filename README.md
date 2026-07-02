@@ -22,4 +22,4 @@ I believe in transparent, maintainable code. Check out my pinned repositories be
 ### 📬 Let's Connect
 
 * **Email:** [rajulabonum@gmail.com](mailto:rajulabonum@gmail.com)
-* **LinkedIn:** [Insert your LinkedIn URL here]
+* **LinkedIn:** [https://www.linkedin.com/in/bonum-rajula-3282a8417/]
