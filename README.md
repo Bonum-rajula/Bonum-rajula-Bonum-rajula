@@ -1,4 +1,4 @@
-# Hi, I'm Rajula Bonum 👋
+# Hi, I'm Rajula Bonum
 
 ### Software Engineer • AI Systems Architect • Building software that works where it matters.
 
@@ -9,19 +9,19 @@ I believe great software isn't just about writing code, it's about designing sys
 ---
 
 
-## 🚀 What I'm Currently Building
+##  What I'm Currently Building
 
-- 🤖 Production-ready AI applications and autonomous agent workflows
-- 📱 Offline-first mobile applications with seamless synchronization
-- 🌐 Modern web platforms using React, Next.js and TypeScript
-- ⚡ High-performance backend APIs and microservices
-- 📊 Telemetry, analytics and business intelligence platforms
-- 🎨 Beautiful user experiences backed by solid engineering
+-  Production-ready AI applications and autonomous agent workflows
+-  Offline-first mobile applications with seamless synchronization
+-  Modern web platforms using React, Next.js and TypeScript
+-  High-performance backend APIs and microservices
+-  Telemetry, analytics and business intelligence platforms
+-  Beautiful user experiences backed by solid engineering
 
 ---
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -42,7 +42,7 @@ LangChain • LangGraph • PyTorch • scikit-learn • ChromaDB • pgvector �
 ---
 
 
-## 💡 Engineering Philosophy
+##  Engineering Philosophy
 
 I enjoy solving challenging engineering problems by combining thoughtful system design with clean, maintainable code.
 
@@ -56,24 +56,24 @@ Whether I'm building AI systems, designing backend architectures, or developing 
 ---
 
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 You'll find projects here covering:
 
-- 🤖 Artificial Intelligence
-- 📱 Mobile Development
-- 🌍 Offline-first Systems
-- 🛰 Telemetry Platforms
-- 🛒 Full-Stack Web Applications
-- 🏢 Enterprise Solutions
-- 🎯 Open Source Experiments
+-  Artificial Intelligence
+-  Mobile Development
+-  Offline-first Systems
+-  Telemetry Platforms
+-  Full-Stack Web Applications
+-  Enterprise Solutions
+-  Open Source Experiments
 
 Each repository reflects how I approach architecture, documentation, and production-quality software.
 
 ---
 
 
-## 📈 Currently Exploring
+##  Currently Exploring
 
 - Multi-Agent AI Systems
 - Advanced RAG Architectures
@@ -84,11 +84,11 @@ Each repository reflects how I approach architecture, documentation, and product
 ---
 
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-📧 **Email:** rajulabonum@gmail.com
+ **Email:** rajulabonum@gmail.com
 
-💼 **LinkedIn:** *https://www.linkedin.com/in/bonum-rajula-3282a8417/*
+ **LinkedIn:** *https://www.linkedin.com/in/bonum-rajula-3282a8417/*
 
 ---
 
